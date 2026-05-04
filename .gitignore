@@ -105,6 +105,11 @@ venv.bak/
 
 # Editors
 .vscode/
+.idea/
+
+# Tooling
+.serena/
+.claude/scheduled_tasks.lock
 
 # Local API specs
 spec/
